@@ -7,11 +7,11 @@ class HomePage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text("Home page notification"),
+        title: Text("a yefrid le gustan los hombres"),
       ),
       body: Center(
         child: Container(
-          child: Text("Center"),
+          child: Text("LE FULETEAN EL TANQUE", style: TextStyle(color: Colors.pink, fontWeight: FontWeight.bold),),
         ),
       ),
     );
