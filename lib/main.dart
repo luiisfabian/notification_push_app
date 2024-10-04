@@ -1,8 +1,8 @@
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
-import 'package:notification_push_app/api/firebase_api.dart';
-import 'package:notification_push_app/firebase_options.dart';
-import 'package:notification_push_app/views/home_page.dart';
+import 'package:cash_flow/api/firebase_api.dart';
+import 'package:cash_flow/firebase_options.dart';
+import 'package:cash_flow/views/home_page.dart';
 
 Future<void> main() async {
   WidgetsFlutterBinding.ensureInitialized();

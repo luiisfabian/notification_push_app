@@ -1,7 +1,7 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:firebase_messaging/firebase_messaging.dart';
-import 'package:notification_push_app/firebase_options.dart';
+import 'package:cash_flow/firebase_options.dart';
 
 class FirebaseApi {
   final _firebaseMessaging = FirebaseMessaging.instance;

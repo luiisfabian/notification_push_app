@@ -1,6 +1,6 @@
 {
-    "name": "notification_push_app",
-    "short_name": "notification_push_app",
+    "name": "cash_flow",
+    "short_name": "cash_flow",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
